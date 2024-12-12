@@ -14,6 +14,6 @@ Hasil akhir aplikasi ini berupa summary yang mengandung solusi yang ditawarkan u
 https://www.kaggle.com/datasets/ramoliyafenil/text-based-cyber-threat-detection?select=cyber-threat-intelligence-splited_train.csv
 
 ## Kelompok
-M Farrel Danendra Rachim - 13521048
-Go Dillon Audris - 13521062
-Rava Maulana - 13521149
+- M Farrel Danendra Rachim 13521048
+- Go Dillon Audris 13521062
+- Rava Maulana 13521149
